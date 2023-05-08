@@ -1,2 +1,1 @@
-# webpacj-setup
-# webpacj-setup
+# webpack-setup
